@@ -1,0 +1,35 @@
+.carousel-item {
+  height: 800px;
+}
+
+.carousel-image-1 {
+  background: url(../img/carousel-img/Koh\ Chang_carousel.jpg); background-size: 100% auto;
+  background-repeat: no-repeat;
+}
+
+.carousel-image-2 {
+  background: url(../img/landscape/winter_sunrise.jpg);
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+}
+
+.carousel-image-3 {
+  background: url(../img/motorway_night.jpg);
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+}
+
+.navbar-brand {
+  font-size: 50px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+}
+
+footer a {
+  color: rgb(153, 188, 252);
+
+}
+
+footer a:hover {
+  color: rgb(203, 220, 250);
+}

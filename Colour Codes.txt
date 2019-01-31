@@ -1,0 +1,6 @@
+Primary = #2E3DDD
+Danger = #931621
+Info = #42D9C8
+Warning = #E5B034
+Success = #29AA69
+Dark = #02203A
